@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Steve not@avinit.com
 
 # THANKS
 
@@ -13,3 +14,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
